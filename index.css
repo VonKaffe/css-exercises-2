@@ -1,0 +1,52 @@
+h1 {font-family: Star Jedi;
+    color:#FFD700;
+    text-align:center;
+
+}
+
+
+p { font-family: Star Jedi;
+    color:#FFD700;
+    text-align:center;
+
+
+}
+
+
+body {background-image: url("images/space.jpg");
+
+
+
+
+
+}
+
+img { display: block;
+        margin:auto;
+        width: 30%;
+
+
+
+}
+
+a {text-decoration:none;
+    font-family: "Star Jedi";
+    color:#FFD700;
+
+
+
+
+}
+
+li a {display:inline-block;
+        float:left;
+        padding-left:400px;
+        position:relative;
+        text-align:center;
+
+
+
+
+
+
+
